@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371208939786",
+    "project_id": "signinandregister-50840",
+    "storage_bucket": "signinandregister-50840.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371208939786:android:98665c0d2e050cafbb72f3",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371208939786-tu5saln26psidi6vbp2nrcpfkvifa89j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmDQ1skntzePtg52quY-PbT4nYTnF_6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371208939786-tu5saln26psidi6vbp2nrcpfkvifa89j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
